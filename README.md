@@ -10,6 +10,8 @@
 
 ### Proyecto final
 
+---
+
 # Otros
 - Para convertir las diapositivas de md a pdf usar el comando:
 ```bash
