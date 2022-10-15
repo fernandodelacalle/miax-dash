@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  dash:
+    image: ejemplo_docker_dash
+    build: 
+      context: .
+      dockerfile: ./dockerfile
+    ports:
+      - 8080:8080

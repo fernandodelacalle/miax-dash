@@ -1,9 +1,7 @@
 # Contenidos
 
 ## Técnicas de visualización
-- Introducción a HTML
-- Introducción a CSS
-- Introducción a Flask
+- Introducción a HTML y CSS
 - Gráficos interactivos con Plotly
 - Interfaces interactivas con Dash
 - Despliege de aplicación web en AWS, Google Cloud y Azure.
